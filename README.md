@@ -25,6 +25,7 @@ Used programs
 
 * firefox
 
+* gomuks
 My st configuration is ABSOLUTELY not mine but its luke smith's fork, which i cant recommend enough, check it out at https://github.com/lukesmithxyz/st
 
 # Keybindings
@@ -50,6 +51,8 @@ mod+o - goes back to normal tiling
 mod+d - opens rofi
 
 mod+Shift+d - opens up dmenu
+
+mod+g - opens up gomuks
 
 moving windows is changed to vim bindings
 
