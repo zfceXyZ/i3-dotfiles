@@ -26,6 +26,7 @@ Used programs
 * firefox
 
 * gomuks
+  
 My st configuration is ABSOLUTELY not mine but its luke smith's fork, which i cant recommend enough, check it out at https://github.com/lukesmithxyz/st
 
 # Keybindings
