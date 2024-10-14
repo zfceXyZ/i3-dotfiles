@@ -6,7 +6,7 @@ All complete with polybar config, and some keybindings
 Used programs
 
 * i3 (obviously)
-* 
+ 
 * polybar
 
 * picom
